@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "codigo": "7891000050010",
+      "nome": "Arroz Branco Tipo 1",
+      "descricao": "Arroz branco tipo 1 - pacote de 5kg",
+      "preco": 24.9,
+      "imagem": "/images/arroz.jpg"
+    },
+    {
+      "codigo": "7894000045678",
+      "nome": "Feijão Carioca",
+      "descricao": "Feijão carioca de alta qualidade - 1kg",
+      "preco": 8.99,
+      "imagem": "/images/feijao.jpg"
+    },
+    {
+      "codigo": "7891234509876",
+      "nome": "Coca-Cola Lata 350ml",
+      "descricao": "Refrigerante Coca-Cola tradicional",
+      "preco": 4.5,
+      "imagem": "/images/cocacola.jpg"
+    }
+  ]
+}
