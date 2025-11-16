@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    padding: 20px 40px;
+    background: #1e1e1e;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.logo span {
+    color: #4FC3F7;
+}
